@@ -1,6 +1,6 @@
 # Hello wolrd! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<table cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+<table align="center">
   <tr>
     <td>
       <picture>
