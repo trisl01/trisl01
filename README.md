@@ -1,4 +1,4 @@
-# Hello wolrd! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hello wolrd! <img src="./assets/gifs/hello.gif" width="30px"/>
 
 <table align="center">
   <tr>
