@@ -1,4 +1,4 @@
-# Hello wolrd! <img src="./assets/gifs/hello.gif" width="30px"/>
+# Hello world! <img src="./assets/gifs/hello.gif" width="30px"/>
 
 <table align="center">
   <tr>
