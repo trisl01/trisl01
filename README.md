@@ -5,14 +5,14 @@
     <td>
       <picture>
         <source 
-          srcset="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&rank_icon=github"
+          srcset="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&rank_icon=github&hide=stars"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github"
+          srcset="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&hide=stars"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github" />
+        <img src="https://github-readme-stats-trisl01.vercel.app/api?username=trisl01&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&hide=stars" />
       </picture>
     </td>
     <td>
