@@ -43,6 +43,7 @@
 [![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![EJS Badge](https://img.shields.io/badge/EJS-2B2D2E?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
 
 
 ### Python
