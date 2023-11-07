@@ -58,7 +58,7 @@
 
 ### C / C++
 
-![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+[![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
