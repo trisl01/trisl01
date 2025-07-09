@@ -60,6 +60,7 @@
 
 [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![OVH Badge](https://img.shields.io/badge/OVH-123F6B?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovh.com/)
+[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 ### Web Development
 
